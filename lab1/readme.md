@@ -19,9 +19,3 @@
   - Diagrams of ALU architecture
   - Explanation of overflow and ALU control signals
   - Test results and observations
-
-## Submission
-- Zip file: `Lab1_ID.zip`
-- Contents:
-  - `Lab1_ID.pdf` (Report)
-  - `src/` folder with Verilog source files
